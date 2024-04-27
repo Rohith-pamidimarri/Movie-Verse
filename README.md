@@ -1,5 +1,6 @@
 # Movie-Verse
 I developed a movie review system using HTML, CSS, JavaScript, jQuery, and PHP. The objective was to create an immersive and visually appealing website that offered an exceptional user experience. User privacy was prioritized through a secure login page, while agents had exclusive access to edit the website content.
+Website Link: https://rnhv-movieverse.000webhostapp.com/
 
 The movie review system boasted a user-friendly interface, enabling users to effortlessly browse and review movies. Through intuitive layouts and responsive designs, I ensured seamless navigation and engaging interactions. By leveraging MySQL databases, I efficiently managed movie data, including ratings, reviews, and summaries.
 
